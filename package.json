@@ -6,7 +6,9 @@
   "dependencies": {
     "jovo-db-filedb": "^2.0.2",
     "jovo-framework": "^2.2.13",
-    "jovo-platform-alexa": "^2.0.2"
+    "jovo-platform-alexa": "^2.0.2",
+    "lodash.template": "^4.5.0",
+    "mem": "^5.1.1"
   },
   "devDependencies": {
     "gulp": "^4.0.0",
