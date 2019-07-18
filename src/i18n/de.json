@@ -1,0 +1,24 @@
+{
+    "translation": {
+        "welcome-intro": "Herzlich willkommen! Schau mal auf Deinen Bildschirm.",
+        "prompt": [
+            "Sieht das gut aus?",
+            "Ist das in Ordnung?",
+            "Findest Du das gut?",
+            "Sieht dort alles so aus wie es soll?"
+        ],
+        "confirm": [
+            "Perfekt!",
+            "Sehr gut!",
+            "Wunderbar!",
+            "Weiter so!",
+            "Klasse!"
+        ],
+        "page1": "Hier ist Seite eins.",
+        "page2": "Und hier ist Seite zwei!",
+        "audioUrl": "https://s3-eu-west-1.amazonaws.com/exampleresources/magic-alexa-2.mp3",
+        "continue": "Und das hier?",
+        "goodbye-short": "Bis bald!",
+        "goodybe-negative": "Du hast wohl noch ein bisschen was zu tun. Bis bald!"
+    }
+}

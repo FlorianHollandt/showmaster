@@ -1,0 +1,46 @@
+{
+	"invocation": "showmaster",
+	"intents": [],
+	"alexa": {
+		"interactionModel": {
+			"languageModel": {
+				"intents": [
+					{
+						"name": "AMAZON.CancelIntent",
+						"samples": [
+							"abbrechen"
+						]
+					},
+					{
+						"name": "AMAZON.HelpIntent",
+						"samples": [
+							"hilfe"
+						]
+					},
+					{
+						"name": "AMAZON.StopIntent",
+						"samples": [
+							"stop"
+						]
+					},
+					{
+						"name": "AMAZON.NavigateHomeIntent",
+						"samples": []
+					},
+					{
+						"name": "AMAZON.YesIntent",
+						"samples": [
+							"ja"
+						]
+					},
+					{
+						"name": "AMAZON.NoIntent",
+						"samples": [
+							"nein"
+						]
+					}
+				]
+			}
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+    "translation": {
+        "welcome-intro": "Welcome! Please take a look at your screen.",
+        "prompt": [
+            "Do you like what you see?",
+            "Does it look good?",
+            "Is it beautiful?",
+            "Do you like it?"
+        ],
+        "confirm": [
+            "Wonderful!",
+            "Way to go!",
+            "Nice!",
+            "Good job!",
+            "Well done!"
+        ],
+        "page1": "This is page one.",
+        "page2": "And this is page two!",
+        "audioUrl": "https://s3-eu-west-1.amazonaws.com/exampleresources/magic-alexa-2.mp3",
+        "continue": "What about this one?",
+        "goodbye-short": "See you soon!",
+        "goodybe-negative": "Looks like you still have some work to do. See you soon!"
+    }
+}
